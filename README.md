@@ -20,7 +20,7 @@
 [medium-tall-tile]: assets/images/medium-tall-tile.png
 [medium-tall-tile-click]: http://example.com -->
 
-# Problem
+## **Problem**
 
 [![Problem - Fragmentation][problem-fragment-tile]][problem-fragment-tile-click]
 [![Problem - Privacy][problem-privacy-tile]][problem-privacy-tile-click]
