@@ -20,17 +20,24 @@
 [medium-tall-tile]: assets/images/medium-tall-tile.png
 [medium-tall-tile-click]: http://example.com -->
 
-> Note: We are a seed stage non-profit organization in the process of nailing down our strategy and roadmap. Your feedback and advice is welcome. Please message us on [twitter](https://twitter.com/universalidhq) and connect.
+# Problem
 
-## Problem: **Digital identity fragmentation**
+[![Problem - Fragmentation][problem-fragment-tile]][problem-fragment-tile-click]
+[![Problem - Privacy][problem-privacy-tile]][problem-privacy-tile-click]
+[![Problem - Security][problem-security-tile]][problem-security-tile-click]
+[![Problem - Monopoly][problem-monopoly-tile]][problem-monopoly-tile-click]
+[![Problem - Verification][problem-verification-tile]][problem-verification-tile-click]
 
-- 🙍‍♀️ **Broken consumer experiences**
-  - *️⃣ Managing so many passwords.
-  - 🦸‍♀️ Privacy issues and personal data management.
-  - 🤦‍♀️ Friction and limitations across services, devices, ecosystems and use-cases.
-- ✅ **Customer verification challenges** - Multi-billion dollar Identity Access Management (IAM) and Identity Verification industries address the need in an inefficient way.
-- 🧪 **Innovation roadblocks** - Fragmented identity silos, each controlled by a large player, adds significant friction to adoption of innovative new services.
-- 🏢 **Broken business models** - Allows certain players to lock consumers and businesses in, such that innovative business models cannot emerge, preventing others from capture any of their own value.
+[problem-fragment-tile]: assets/images/problem-fragment-tile.png
+[problem-fragment-tile-click]: http://example.com
+[problem-privacy-tile]: assets/images/problem-privacy-tile.png
+[problem-privacy-tile-click]: http://example.com
+[problem-security-tile]: assets/images/problem-security-tile.png
+[problem-security-tile-click]: http://example.com
+[problem-monopoly-tile]: assets/images/problem-monopoly-tile.png
+[problem-monopoly-tile-click]: http://example.com
+[problem-verification-tile]: assets/images/problem-verification-tile.png
+[problem-verification-tile-click]: http://example.com
 
 ## Solution: **Universal identity protocol**
 
