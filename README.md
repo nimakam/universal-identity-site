@@ -44,6 +44,10 @@
 [![Solution - Password-less][solution-passwordless-tile]][solution-passwordless-tile-click]
 [![Solution - Self-ownership][solution-self-own-tile]][solution-self-own-tile-click]
 [![Solution - Universality][solution-universality-tile]][solution-universality-tile-click]
+[![Solution - Intuitive][solution-intuitive-tile]][solution-intuitive-tile-click]
+[![Solution - Private][solution-private-tile]][solution-private-tile-click]
+[![Solution - Open][solution-open-tile]][solution-open-tile-click]
+[![Solution - Hybrid][solution-hybrid-tile]][solution-hybrid-tile-click]
 
 [solution-passwordless-tile]: assets/images/solution-passwordless-tile.png
 [solution-passwordless-tile-click]: http://example.com
@@ -51,6 +55,14 @@
 [solution-self-own-tile-click]: http://example.com
 [solution-universality-tile]: assets/images/solution-universality-tile.png
 [solution-universality-tile-click]: http://example.com
+[solution-intuitive-tile]: assets/images/solution-intuitive-tile.png
+[solution-intuitive-tile-click]: http://example.com
+[solution-private-tile]: assets/images/solution-private-tile.png
+[solution-private-tile-click]: http://example.com
+[solution-open-tile]: assets/images/solution-open-tile.png
+[solution-open-tile-click]: http://example.com
+[solution-hybrid-tile]: assets/images/solution-hybrid-tile.png
+[solution-hybrid-tile-click]: http://example.com
 
 ## Goals
 
