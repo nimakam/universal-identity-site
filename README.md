@@ -39,13 +39,18 @@
 [problem-verification-tile]: assets/images/problem-verification-tile.png
 [problem-verification-tile-click]: http://example.com
 
-## Solution: **Universal identity protocol**
+## **Solution: Universal Identity**
 
-- 🤳 **Self-sovereign** - Controlled by the ID owners.
-- 📜 **Standards-based** - Based on a ubiquitous  common logical structure.
-- 🔓 **Permissionless** - Allows everyone and anyone to innovate on top of it.
-- 🔢 **Versioned** - Supports evolution through time, to cover increasing number of digital identity use cases.
-- 🔗 **Federated** - When necessary, supports interoperability between different jurisdictional governance approaches.
+[![Solution - Password-less][solution-passwordless-tile]][solution-passwordless-tile-click]
+[![Solution - Self-ownership][solution-self-own-tile]][solution-self-own-tile-click]
+[![Solution - Universality][solution-universality-tile]][solution-universality-tile-click]
+
+[solution-passwordless-tile]: assets/images/solution-passwordless-tile.png
+[solution-passwordless-tile-click]: http://example.com
+[solution-self-own-tile]: assets/images/solution-self-own-tile.png
+[solution-self-own-tile-click]: http://example.com
+[solution-universality-tile]: assets/images/solution-universality-tile.png
+[solution-universality-tile-click]: http://example.com
 
 ## Goals
 
