@@ -17,16 +17,7 @@ We believe Universal Identity will complement and enhance the web the same way t
 
 > **We work to enhance everyone's digital lives through interoperability, privacy, security, and consumer choice**
 
-## Our approach
-
-Universal Identity starts with the idea that ["The internet should have a native identity layer"↗️](https://medium.com/universal-identity/the-internets-missing-identity-layer-3934b23b6c22), that similar to the web, should be a usable public good. It then focuses on the people and organizations that the technology is setting out to serve, defines the solution from their point of view, and works its way back through the various business and technology implications. See ["Why Universal Identity?"↗️](https://medium.com/universal-identity/why-universal-identity-ad78ebb59aa7) for more details.
-
-[![Human-centric approach][human-centric]][human-centric-click]
-
-[human-centric]: assets/images/about-us/human-centric.png
-[human-centric-click]: https://medium.com/universal-identity/why-universal-identity-ad78ebb59aa7
-
-## Causes
+## Our causes
 
 [![Causes - Digital rights][causes-rights-tile]][causes-rights-tile-click]
 [![Causes - Usability][causes-usability-tile]][causes-usability-tile-click]
@@ -48,7 +39,7 @@ Universal Identity starts with the idea that ["The internet should have a native
 [causes-interop-tile]: assets/images/about-us/causes-interop-tile.png
 [causes-interop-tile-click]: about-us#interoperability
 
-## Activities
+## Our activities
 
 [![Activities - Mapping the industry][activities-map-tile]][activities-map-tile-click]
 [![Activities - Developing standards][activities-standards-tile]][activities-standards-tile-click]
@@ -66,6 +57,15 @@ Universal Identity starts with the idea that ["The internet should have a native
 [activities-ecosystem-tile-click]: about-us#starting-an-ecosystem
 [activities-admin-tile]: assets/images/about-us/activities-admin-tile.png
 [activities-admin-tile-click]: about-us#general-administration
+
+## Our approach
+
+Universal Identity starts with the idea that ["The internet should have a native identity layer"↗️](https://medium.com/universal-identity/the-internets-missing-identity-layer-3934b23b6c22), that similar to the web, should be a usable public good. It then focuses on the people and organizations that the technology is setting out to serve, defines the solution from their point of view, and works its way back through the various business and technology implications. See ["Why Universal Identity?"↗️](https://medium.com/universal-identity/why-universal-identity-ad78ebb59aa7) for more details.
+
+[![Human-centric approach][human-centric]][human-centric-click]
+
+[human-centric]: assets/images/about-us/human-centric.png
+[human-centric-click]: https://medium.com/universal-identity/why-universal-identity-ad78ebb59aa7
 
 ## Causes
 
