@@ -3,8 +3,6 @@ layout: page
 title: Use cases
 permalink: /use-cases
 ---
-# Use cases
-
 ## **Consumer**
 
 [![Consumer use cases - Login][consumer-login-tile]][consumer-login-tile-click]
@@ -17,6 +15,29 @@ permalink: /use-cases
 [consumer-contacts-tile-click]: use-cases#contacts
 [consumer-crypto-tile]: assets/images/use-cases/consumer-crypto-tile.png
 [consumer-crypto-tile-click]: use-cases#crypto
+
+## **Business**
+
+[![Business use cases - Customer journey][business-customer-tile]][business-customer-tile-click]
+[![Business use cases - Identity Access Management][business-iam-tile]][business-iam-tile-click]
+[![Business use cases - Business DeFi][business-defi-tile]][business-defi-tile-click]
+
+[business-customer-tile]: assets/images/use-cases/business-customer-tile.png
+[business-customer-tile-click]: use-cases#customer-journey-management
+[business-iam-tile]: assets/images/use-cases/business-iam-tile.png
+[business-iam-tile-click]: use-cases#identity-access-management
+[business-defi-tile]: assets/images/use-cases/business-defi-tile.png
+[business-defi-tile-click]: use-cases#business-defi
+
+## **Institution**
+
+[![Institution use cases - Credentials][institution-cred-tile]][institution-cred-tile-click]
+[![Institution use cases - Financial transparency][institution-finance-tile]][institution-finance-tile-click]
+
+[institution-cred-tile]: assets/images/use-cases/institution-cred-tile.png
+[institution-cred-tile-click]: use-cases#credentials
+[institution-finance-tile]: assets/images/use-cases/institution-finance-tile.png
+[institution-finance-tile-click]: use-cases#financial-transparency
 
 ## Consumer
 
@@ -257,7 +278,9 @@ Shipping:
 - Managing cash
 - Mergers and acquisitions
 
-#### Business Decentralized Finance (DeFi)
+#### Business DeFi
+
+aka Business Decentralized Finance, or managing a business' assets on-chain.
 
 - Treasury management
 - Employee payments (payroll)
