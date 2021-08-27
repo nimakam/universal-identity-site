@@ -26,6 +26,7 @@
   font-size: 18px;
 }
 
+
 .header-titles {
   padding-top: 5px;
   padding-left: 16px;
@@ -45,11 +46,12 @@
 }
 
 .site-social-header {
-
+  padding-left: 10px; 
 }
 
+
 .site-social-footer {
-  align-self: center;
+  padding-left: 10px; 
 }
 
 .trigger-footer {
@@ -87,6 +89,8 @@
 .social-and-action-right {
   float: right;
   height: 60px;
+  display: flex;
+  align-items: center;
 }
 
 .post-content {
