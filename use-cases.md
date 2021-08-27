@@ -3,7 +3,7 @@ layout: page
 title: Use cases
 permalink: /use-cases
 ---
-## **Consumer**
+## Consumer use cases
 
 [![Consumer use cases - Login][consumer-login-tile]][consumer-login-tile-click]
 [![Consumer use cases - Contacts][consumer-contacts-tile]][consumer-contacts-tile-click]
@@ -16,7 +16,7 @@ permalink: /use-cases
 [consumer-crypto-tile]: assets/images/use-cases/consumer-crypto-tile.png
 [consumer-crypto-tile-click]: use-cases#crypto
 
-## **Business**
+## Business use cases
 
 [![Business use cases - Customer journey][business-customer-tile]][business-customer-tile-click]
 [![Business use cases - Identity Access Management][business-iam-tile]][business-iam-tile-click]
@@ -29,7 +29,7 @@ permalink: /use-cases
 [business-defi-tile]: assets/images/use-cases/business-defi-tile.png
 [business-defi-tile-click]: use-cases#business-defi
 
-## **Institution**
+## Institution use cases
 
 [![Institution use cases - Credentials][institution-cred-tile]][institution-cred-tile-click]
 [![Institution use cases - Financial transparency][institution-finance-tile]][institution-finance-tile-click]
@@ -241,7 +241,7 @@ Shipping:
 - Purchase
 - Verified reviews
 
-### Enterprise identity management
+### Identity access management
 
 (partial on-chain?)
 
