@@ -7,9 +7,22 @@ permalink: /roadmap
 
 > Note: All information in this page are tentative and dependent on various factors such as funding, external events, validation of assumptions, business and technical learnings, etc. It represents our best effort to estimate the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community.
 
+## Stages
+
+[![Roadmap stages - Pre-seed][stages-pre-seed-tile]][stages-pre-seed-tile-click]
+[![Roadmap stages - Seed][stages-seed-tile]][stages-seed-tile-click]
+[![Roadmap stages - Beyond][stages-beyond-tile]][stages-beyond-tile-click]
+
+[stages-pre-seed-tile]: assets/images/roadmap/stages-pre-seed-tile.png
+[stages-pre-seed-tile-click]: roadmap#pre-seed
+[stages-seed-tile]: assets/images/roadmap/stages-seed-tile.png
+[stages-seed-tile-click]: roadmap#seed
+[stages-beyond-tile]: assets/images/roadmap/stages-beyond-tile.png
+[stages-beyond-tile-click]: roadmap#beyond
+
 ## Pre-seed
 
-Current stage estimated to last 6-12 months.
+In this stage organization starts the work of proving out the Universal Identity protocol and seed apps. current stage estimated to last 6-12 months.
 
 ### UID protocol V0.0.2
 
@@ -50,3 +63,5 @@ Basic early adopter use cases
 ### Staging verification network
 
 ## Beyond
+
+Not much is known about these stages other than increased scale. Given the current set of assumptions and the high possibility of changes to the direction of this venture, we will revisit planning for stages beyond what is already mentioned.

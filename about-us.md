@@ -51,7 +51,7 @@ Universal Identity starts with the idea that ["The internet should have a native
 ## Activities
 
 [![Activities - Mapping the industry][activities-map-tile]][activities-map-tile-click]
-[![Activities - Developing standards][activities-standards-tile]][activities-standards-tile-tile-click]
+[![Activities - Developing standards][activities-standards-tile]][activities-standards-tile-click]
 [![Activities - Publishing code][activities-code-tile]][activities-code-tile-click]
 [![Activities - Starting an ecosystem][activities-ecosystem-tile]][activities-ecosystem-tile-click]
 [![Activities - General administration][activities-admin-tile]][activities-admin-tile-click]
