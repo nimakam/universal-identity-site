@@ -1,4 +1,4 @@
-## **Problem**
+# Problem
 
 [![Problem - Fragmentation][problem-fragment-tile]][problem-fragment-tile-click]
 [![Problem - Privacy][problem-privacy-tile]][problem-privacy-tile-click]
@@ -15,9 +15,9 @@
 [problem-monopoly-tile]: assets/images/main/problem-monopoly-tile.png
 [problem-monopoly-tile-click]: /idea#monopoly
 [problem-verification-tile]: assets/images/main/problem-verification-tile.png
-[problem-verification-tile-click]: http://example.com
+[problem-verification-tile-click]: idea#monopoly
 
-## **Solution: Universal Identity**
+# Solution: Universal Identity
 
 [![Solution - Password-less][solution-passwordless-tile]][solution-passwordless-tile-click]
 [![Solution - Self-ownership][solution-self-own-tile]][solution-self-own-tile-click]
@@ -42,7 +42,7 @@
 [solution-hybrid-tile]: assets/images/main/solution-hybrid-tile.png
 [solution-hybrid-tile-click]: http://example.com
 
-## **Use cases**
+# Use cases
 
 [![Use cases - Consumer][use-cases-consumer-tile]][use-cases-consumer-tile-click]
 [![Use cases - Business][use-cases-business-tile]][use-cases-business-tile-click]
@@ -55,7 +55,7 @@
 [use-cases-institution-tile]: assets/images/main/use-cases-institution-tile.png
 [use-cases-institution-tile-click]: http://example.com
 
-## **Products**
+# Products
 
 [![Products - Protocol][products-protocol-tile]][products-protocol-tile-click]
 [![Products - Seed apps][products-seed-apps-tile]][products-seed-apps-tile-click]

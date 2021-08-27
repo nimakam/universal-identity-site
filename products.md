@@ -3,28 +3,38 @@ layout: page
 title: Products
 permalink: /products
 ---
-# 📦 Products
+# Products
 
-## 🌎🆔📜 Universal Identity Standard
+## Protocol
 
 Logical definition of the protocol including federation across multiple protocol instances.
 
-## 🌎🆔🕸 Universal Identity Network
+### Properties
 
-The default protocol instance that aims to create the largest and most commonly used network of personal, and organizational identities.
+#### Open
 
-## 🌐📲 Ecosystem apps
+#### Permissionless
 
-Created and supported by other players in the ecosystem, powered bu the Universal Identity protocol.
+#### Neutral
 
-#### 🆔📲 Identity app
+### Features
+
+#### Recovery
+
+## Seed apps
+
+Seed apps meant to kickstart the ecosystem and competition by private businesses. Eventually majority of apps in the market are created and supported by other players in the ecosystem, and powered by the Universal Identity protocol.
+
+### Identity app
 
 The primary high security app that interacts with the user by surfacing notifications and requests for user input or confirmations, built by an ecosystem player.
 
-#### 📇📲 Contacts app
+### Contacts app
 
 The main app a user goes to in order to search and retrieve contacts, as well as connect with others and add new contacts, built by an ecosystem player.
 
-#### 🤳 An app per [use case](use-cases.md)
+### Crypto app
 
-For each of the items detailed in the [use cases](use-cases.md) section, there can be an app built by an ecosystem player that implements it on top of the Universal Identity protocol.
+## Seed verification network
+
+Seed verification network meant to kickstart the ecosystem and competition by independent verification networks and communities. Eventually majority of the verification networks used in the market are created, governed and supported by other players in the ecosystem, and powered by the Universal Identity protocol.

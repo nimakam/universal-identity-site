@@ -3,63 +3,50 @@ layout: page
 title: Roadmap
 permalink: /roadmap
 ---
-# 🗺 Tentative roadmaps
+# Roadmap
 
-## 🙍‍♀️ Customer segment
+> Note: All information in this page are tentative and dependent on various factors such as funding, external events, validation of assumptions, business and technical learnings, etc. It represents our best effort to estimate the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community.
 
-- 🙍‍♀️ Consumer
-- 🏢 Business (Enterprise)
-- 🏛 Government (and institutions)
+## Pre-seed
 
-## #️⃣ Versions (based on scope)
+Current stage estimated to last 6-12 months.
 
-- 1️⃣ Version 0.1 - 🙍‍♀️ Basic consumer use cases
-- 2️⃣ Version 0.2 - 🏢🙍‍♀️ Basic business use cases
-- 3️⃣ Version 0.3 - 🏛🙍‍♀️ Basic institutional use cases
-- 4️⃣ Version 0.4 - 🙍‍♀️☎️ Advanced consumer use cases
-- 5️⃣ Version 0.5 - 🏢🛍💳 Commerce business use cases
-- 6️⃣ Version 0.6 - 🏢🏢 B2B use cases
+### UID protocol V0.0.2
 
-## 🛍 Market
+Consumer 1st use case - Online features
 
-- 🙍‍♀️📇 Social connections
-- 🙍‍♀️👩‍💼🛡 Trusted party, Estate planning, disaster recovery
-- 🙍‍♀️🗝 Secret information management
-- 🙍‍♀️📱💻⌚️ Device connections
-- 🙍‍♀️💰 Money and valuables
-  - 🙍‍♀️💸 Decentralized Finance (DeFi)
-- --------- 1️⃣ V0.1 - Basic consumer use cases ---------
-- 🙍‍♀️📣 Reputation management
-- 🙍‍♀️👨‍👩‍👧‍👦 Group management
-- 🏢📣 Reputation management
-- 🏢👩 Customer journey management
-- 🙍‍♀️🛎 Customer support
-- 🙍‍♀️🛍📄 Business connections
-  - 🗝🔌 Login/account management (legacy)
-- --------- 2️⃣ V0.2 - Basic business use cases ---------
-- 🏛🆔 Identification and certificate issuance
-- 🏛🤍 Non-profit - financial transparency
-- --------- 3️⃣ V0.3 - Basic institutional use cases ---------
+### Staging identity app
 
-## 🤳 Use cases
+(Online version)
 
-- 🙍‍♀️📇 Social connection management - Building and managing social connections/contacts
-- 🙍‍♀️📇 Personal information management - Sharing/accessing personal information with/from social connections/contacts
-- 🙍‍♀️👩‍💼🛡 Guardian setup, Estate planning and execution, disaster recovery
-- 🙍‍♀️🗝 High security secret storage/retrieval, secret sharing
-- 📲💻⌚️ Device initiation and login/connection (like TVs, kiosks, etc.), accessing/invoking, managing access control, maintenance
-- 🙍‍♀️💰 Finance, payments, exchange and custody
-  - 🙍‍♀️💸 DeFi - Hold money, payment, loans, lend money, borrow money
-- --------- 1️⃣ V0.1 - Basic consumer use cases ---------
-- 🙍‍♀️⏏️ Version upgrade manual intervention process
-- 🙍‍♀️📣 Establishing public profiles, Posts with different contexts
-- 🙍‍♀️👨‍👩‍👧‍👦 Adding, joining and managing groups like: Family, friends, interest groups, neighbors and neighborhoods, sports and other recreational leagues/teams etc.
-- 🏢📣 Establishing public presence, contact information, product and support information, communications
-- 🙍‍♀️🛎 Support requests, release and agreement management, information and privacy policies, investigation/diagnostics
-- 🏢👩 Customer data source, customer reach out, customer agreements
-  - 🏢👩🗝🔌 Connection service and SDKs
-- 🙍‍♀️🛍📄 Subscribing/connecting with businesses, sharing/revoking personal information
-- --------- 2️⃣ V0.2 - Basic business use cases ---------
-- 🏛🆔 Issuing/renewing/revoking identity documents, birth/death/marriage certification, business certificates
-- 🏛🤍 Recording and public sharing of budget planning and transfer from donor, to nonprofit, to work on the ground.
-- --------- 3️⃣ V0.3 - Basic institutional use cases ---------
+### Staging contacts app
+
+Staging app for 1st consumer use case (Contacts app)
+
+### UID protocol V0.0.3
+
+Early adopter 1st use case (Offline features)
+
+### Sample crypto app
+
+Offline p2p app for 1st early adopter use case (Crypto app)
+
+## Seed
+
+Next stage estimated to last 9-18 months.
+
+### UID protocol V0.1.0
+
+Basic consumer use cases
+
+### Partner identity app
+
+online version
+
+### UID protocol V0.2.0
+
+Basic early adopter use cases
+
+### Staging verification network
+
+## Beyond
