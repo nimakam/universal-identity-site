@@ -3,7 +3,7 @@ layout: home
 title: Home
 permalink:
 ---
-# Problem
+## **Problem**
 
 [![Problem - Fragmentation][problem-fragment-tile]][problem-fragment-tile-click]
 [![Problem - Privacy][problem-privacy-tile]][problem-privacy-tile-click]
@@ -12,17 +12,17 @@ permalink:
 [![Problem - Verification][problem-verification-tile]][problem-verification-tile-click]
 
 [problem-fragment-tile]: assets/images/main/problem-fragment-tile.png
-[problem-fragment-tile-click]: ../idea#fragmentation
+[problem-fragment-tile-click]: idea#fragmentation
 [problem-privacy-tile]: assets/images/main/problem-privacy-tile.png
-[problem-privacy-tile-click]: ../idea.md#privacy
+[problem-privacy-tile-click]: idea#privacy
 [problem-security-tile]: assets/images/main/problem-security-tile.png
-[problem-security-tile-click]: /idea.md#security
+[problem-security-tile-click]: idea.md#security
 [problem-monopoly-tile]: assets/images/main/problem-monopoly-tile.png
-[problem-monopoly-tile-click]: /idea#monopoly
+[problem-monopoly-tile-click]: idea#monopoly
 [problem-verification-tile]: assets/images/main/problem-verification-tile.png
-[problem-verification-tile-click]: idea#monopoly
+[problem-verification-tile-click]: idea#verification
 
-# Solution: Universal Identity
+## **Solution: Universal Identity**
 
 [![Solution - Password-less][solution-passwordless-tile]][solution-passwordless-tile-click]
 [![Solution - Self-ownership][solution-self-own-tile]][solution-self-own-tile-click]
@@ -33,19 +33,19 @@ permalink:
 [![Solution - Hybrid][solution-hybrid-tile]][solution-hybrid-tile-click]
 
 [solution-passwordless-tile]: assets/images/main/solution-passwordless-tile.png
-[solution-passwordless-tile-click]: http://example.com
+[solution-passwordless-tile-click]: idea#password-less-login
 [solution-self-own-tile]: assets/images/main/solution-self-own-tile.png
-[solution-self-own-tile-click]: http://example.com
+[solution-self-own-tile-click]: idea#self-owned
 [solution-universality-tile]: assets/images/main/solution-universality-tile.png
-[solution-universality-tile-click]: http://example.com
+[solution-universality-tile-click]: idea#universal
 [solution-intuitive-tile]: assets/images/main/solution-intuitive-tile.png
-[solution-intuitive-tile-click]: http://example.com
+[solution-intuitive-tile-click]: idea#intuitive
 [solution-private-tile]: assets/images/main/solution-private-tile.png
-[solution-private-tile-click]: http://example.com
+[solution-private-tile-click]: idea#private
 [solution-open-tile]: assets/images/main/solution-open-tile.png
-[solution-open-tile-click]: http://example.com
+[solution-open-tile-click]: idea#open
 [solution-hybrid-tile]: assets/images/main/solution-hybrid-tile.png
-[solution-hybrid-tile-click]: http://example.com
+[solution-hybrid-tile-click]: idea#hybrid
 
 ## **Use cases**
 
@@ -54,11 +54,11 @@ permalink:
 [![Use cases - Institution][use-cases-institution-tile]][use-cases-institution-tile-click]
 
 [use-cases-consumer-tile]: assets/images/main/use-cases-consumer-tile.png
-[use-cases-consumer-tile-click]: http://example.com
+[use-cases-consumer-tile-click]: use-cases#consumer
 [use-cases-business-tile]: assets/images/main/use-cases-business-tile.png
-[use-cases-business-tile-click]: http://example.com
+[use-cases-business-tile-click]: use-cases#business
 [use-cases-institution-tile]: assets/images/main/use-cases-institution-tile.png
-[use-cases-institution-tile-click]: http://example.com
+[use-cases-institution-tile-click]: use-cases#institution
 
 ## **Products**
 
@@ -67,8 +67,8 @@ permalink:
 [![Products - Seed verification network][products-verification-tile]][products-protocol-tile-click]
 
 [products-protocol-tile]: assets/images/main/products-protocol-tile.png
-[products-protocol-tile-click]: http://example.com
+[products-protocol-tile-click]: products#protocol
 [products-seed-apps-tile]: assets/images/main/products-seed-apps-tile.png
-[products-seed-apps-tile-click]: http://example.com
+[products-seed-apps-tile-click]: products#seed-apps
 [products-verification-tile]: assets/images/main/products-verification-tile.png
-[products-verification-tile-click]: http://example.com
+[products-verification-tile-click]: products#seed-verification-network
