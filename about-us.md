@@ -9,13 +9,17 @@ We are a pre-seed non-profit organization working on building the internet's nat
 
 ## Our vision
 
-> **Universal Identity will be the internet's native identity protocol enabling majority of digital activities and transactions.**
+> **Universal Identity as the internet's native identity protocol enabling majority of digital activities and transactions.**
 
 We believe Universal Identity will complement and enhance the web the same way the world wide web evolved the internet.
 
 ## Our mission
 
 > **We work to enhance everyone's digital lives through interoperability, privacy, security, and consumer choice**
+
+## Our approach
+
+
 
 ## Causes
 
