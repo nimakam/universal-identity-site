@@ -33,7 +33,7 @@ permalink:
 [![Solution - Hybrid][solution-hybrid-tile]][solution-hybrid-tile-click]
 
 [solution-passwordless-tile]: assets/images/main/solution-passwordless-tile.png
-[solution-passwordless-tile-click]: idea#password-less-login
+[solution-passwordless-tile-click]: idea#password-less
 [solution-self-own-tile]: assets/images/main/solution-self-own-tile.png
 [solution-self-own-tile-click]: idea#self-owned
 [solution-universality-tile]: assets/images/main/solution-universality-tile.png
