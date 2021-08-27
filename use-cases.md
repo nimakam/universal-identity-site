@@ -5,7 +5,25 @@ permalink: /use-cases
 ---
 # Use cases
 
+## **Consumer**
+
+[![Consumer use cases - Login][consumer-login-tile]][consumer-login-tile-click]
+[![Consumer use cases - Contacts][consumer-contacts-tile]][consumer-contacts-tile-click]
+[![Consumer use cases - Crypto assets (DeFi)][consumer-crypto-tile]][consumer-crypto-tile-click]
+
+[consumer-login-tile]: assets/images/use-cases/consumer-login-tile.png
+[consumer-login-tile-click]: use-cases#login
+[consumer-contacts-tile]: assets/images/use-cases/consumer-contacts-tile.png
+[consumer-contacts-tile-click]: use-cases#contacts
+[consumer-crypto-tile]: assets/images/use-cases/consumer-crypto-tile.png
+[consumer-crypto-tile-click]: use-cases#crypto
+
 ## Consumer
+
+### Login
+
+- App login from various apps and devices
+- Auto-login on trusted apps and devices
 
 ### Contacts
 
@@ -69,10 +87,11 @@ Human connection to interaction devices like:
 - Subscription/Rent (housing, retail, service, etc)
 - Project contract (housing, etc)
   
-### Crypto assets
+### Crypto
 
-(partial on chain)
+Crypto assets on chain, L1, L2 and all compatible chains.
 
+- Tokens and crypto-currencies
 - Finance
 - Payments
 - Exchange (Buy/sell of assets)
