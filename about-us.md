@@ -5,7 +5,7 @@ permalink: /about-us
 ---
 ## Who we are
 
-We are a pre-seed non-profit organization working on building the internet's native identity layer. We are incorporated in the United States and have pending 501(c)3 status. As such all out activities should and will benefit the public as you can see from the causes and activities below.
+We are a pre-seed non-profit organization working on building the internet's native identity layer. We are incorporated in the United States and are pending 501(c)3 status. As such, all of our activities ultimately benefit the public, as can be observed from our causes and activities below.
 
 ## Our vision
 
@@ -56,15 +56,15 @@ Universal Identity starts with the idea that ["The internet should have a native
 [![Activities - Starting an ecosystem][activities-ecosystem-tile]][activities-ecosystem-tile-click]
 [![Activities - General administration][activities-admin-tile]][activities-admin-tile-click]
 
-[activities-map-tile-tile]: assets/images/about-us/activities-map-tile.png
+[activities-map-tile]: assets/images/about-us/activities-map-tile.png
 [activities-map-tile-click]: about-us#mapping-the-industry
-[activities-standards-tile-tile]: assets/images/about-us/activities-standards-tile.png
+[activities-standards-tile]: assets/images/about-us/activities-standards-tile.png
 [activities-standards-tile-click]: about-us#developing-standards
-[activities-code-tile-tile]: assets/images/about-us/activities-code-tile.png
+[activities-code-tile]: assets/images/about-us/activities-code-tile.png
 [activities-code-tile-click]: about-us#publishing-code
-[activities-ecosystem-tile-tile]: assets/images/about-us/activities-ecosystem-tile.png
+[activities-ecosystem-tile]: assets/images/about-us/activities-ecosystem-tile.png
 [activities-ecosystem-tile-click]: about-us#starting-an-ecosystem
-[activities-admin-tile-tile]: assets/images/about-us/activities-admin-tile.png
+[activities-admin-tile]: assets/images/about-us/activities-admin-tile.png
 [activities-admin-tile-click]: about-us#general-administration
 
 ## Causes
