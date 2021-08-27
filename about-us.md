@@ -3,9 +3,9 @@ layout: page
 title: About us
 permalink: /about-us
 ---
-# About us
+## Who we are
 
-We are a pre-seed non-profit organization working on building the internet's native identity layer.
+We are a pre-seed non-profit organization working on building the internet's native identity layer. We are incorporated in the United States and have pending 501(c)3 status. As such all out activities should and will benefit the public as you can see from the causes and activities below.
 
 ## Our vision
 
@@ -28,26 +28,97 @@ Universal Identity starts with the idea that ["The internet should have a native
 
 ## Causes
 
-### Privacy, security and choice for all identity owners
+[![Causes - Digital rights][causes-rights-tile]][causes-rights-tile-click]
+[![Causes - Usability][causes-usability-tile]][causes-usability-tile-click]
+[![Causes - Institutions][causes-institution-tile]][causes-institution-tile-click]
+[![Causes - Businesses][causes-business-tile]][causes-business-tile-click]
+[![Causes - Protection][causes-protection-tile]][causes-protection-tile-click]
+[![Causes - Interoperability][causes-interop-tile]][causes-interop-tile-click]
 
-### Usable identity for consumers
-
-### Trustworthy identity for institutions and members
-
-### Productive identity for enterprises
-
-### Protection for underprivileged identity owners
-
-### Universal interoperability for all digital identities
+[causes-rights-tile]: assets/images/about-us/causes-rights-tile.png
+[causes-rights-tile-click]: about-us#digital-rights
+[causes-usability-tile]: assets/images/about-us/causes-usability-tile.png
+[causes-usability-tile-click]: about-us#usability
+[causes-institution-tile]: assets/images/about-us/causes-institution-tile.png
+[causes-institution-tile-click]: about-us#institutions
+[causes-business-tile]: assets/images/about-us/causes-business-tile.png
+[causes-business-tile-click]: about-us#business
+[causes-protection-tile]: assets/images/about-us/causes-protection-tile.png
+[causes-protection-tile-click]: about-us#protection
+[causes-interop-tile]: assets/images/about-us/causes-interop-tile.png
+[causes-interop-tile-click]: about-us#interoperability
 
 ## Activities
 
-### Mapping the identity industry
+[![Activities - Mapping the industry][activities-map-tile]][activities-map-tile-click]
+[![Activities - Developing standards][activities-standards-tile]][activities-standards-tile-tile-click]
+[![Activities - Publishing code][activities-code-tile]][activities-code-tile-click]
+[![Activities - Starting an ecosystem][activities-ecosystem-tile]][activities-ecosystem-tile-click]
+[![Activities - General administration][activities-admin-tile]][activities-admin-tile-click]
 
-### Developing and iterating on public standards
+[activities-map-tile-tile]: assets/images/about-us/activities-map-tile.png
+[activities-map-tile-click]: about-us#mapping-the-industry
+[activities-standards-tile-tile]: assets/images/about-us/activities-standards-tile.png
+[activities-standards-tile-click]: about-us#developing-standards
+[activities-code-tile-tile]: assets/images/about-us/activities-code-tile.png
+[activities-code-tile-click]: about-us#publishing-code
+[activities-ecosystem-tile-tile]: assets/images/about-us/activities-ecosystem-tile.png
+[activities-ecosystem-tile-click]: about-us#starting-an-ecosystem
+[activities-admin-tile-tile]: assets/images/about-us/activities-admin-tile.png
+[activities-admin-tile-click]: about-us#general-administration
 
-### Developing and iterating on public reference implementations
+## Causes
 
-### Kickstarting and supporting the ecosystem
+### Digital rights
+
+>Privacy, security and choice for all identity owners
+
+### Usability
+
+>Usable identity for consumers
+
+### Institutions
+
+>Trustworthy identity for institutions and members
+
+### Businesses
+
+>Productive identity for enterprises
+
+### Protection
+
+>Protection for underprivileged identity owners
+
+### Interoperability
+
+>Universal interoperability for all digital identities
+
+## Activities
+
+### Mapping the industry
+
+> Mapping the identity industry
+
+Leading the effort to map the digital identity industry, to better understand how to build a new ecosystem while mitigating past industry mistakes.
+
+### Developing standards
+
+>Developing and iterating on public standards
+
+Developing and iterating on public standards with input from the community.
+
+### Publishing code
+
+>Developing and iterating on public reference implementations
+
+Developing and iterating on public reference implementations.
+
+### Starting an ecosystem
+
+>Kick-starting and supporting the ecosystem
+
+Kick-starting and supporting the ecosystem from scratch, requiring extra efforts to invest in seeding markets with products.
 
 ### General administration
+
+General administration activities within the Universal Identity non-profit organization and its board of director.
