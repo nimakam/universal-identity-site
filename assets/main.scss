@@ -56,6 +56,7 @@
   @include relative-font-size(1.2);
   color: #ffffff;
   float: left; 
+  align-self: center;
 
   a:visited {
     color : #ffffff;
@@ -233,5 +234,6 @@
     max-height: 100%;
     width: auto;
     height: 20px;
+    align-self: center;
   }
 }
