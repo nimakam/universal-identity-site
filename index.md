@@ -3,8 +3,7 @@ layout: home
 title: Home
 permalink:
 ---
-
-## **Problem**
+# Problem
 
 [![Problem - Fragmentation][problem-fragment-tile]][problem-fragment-tile-click]
 [![Problem - Privacy][problem-privacy-tile]][problem-privacy-tile-click]
@@ -23,7 +22,7 @@ permalink:
 [problem-verification-tile]: assets/images/main/problem-verification-tile.png
 [problem-verification-tile-click]: idea#monopoly
 
-## **Solution: Universal Identity**
+# Solution: Universal Identity
 
 [![Solution - Password-less][solution-passwordless-tile]][solution-passwordless-tile-click]
 [![Solution - Self-ownership][solution-self-own-tile]][solution-self-own-tile-click]
