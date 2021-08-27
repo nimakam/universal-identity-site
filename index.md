@@ -1,4 +1,7 @@
 ---
+layout: page
+title: main
+permalink:
 ---
 
 <!-- >Note: We are a pre-seed stage non-profit organization. Your feedback and advice is welcome. Please message us on twitter and connect. -->
