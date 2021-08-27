@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Idea
+title: The idea
 permalink: /idea
 ---
 
-# Idea
+# The idea
 
 ## Problem
 
