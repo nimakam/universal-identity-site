@@ -18,7 +18,26 @@ permalink: /products
 
 ## Seed apps
 
-## Seed verification network
+[![Seed apps - Identity app][seed-id-app-tile]][seed-id-app-tile-click]
+[![Seed apps - Contacts app][seed-contacts-app-tile]][seed-contacts-app-tile-click]
+[![Seed apps - Crypto app][seed-crypto-app-tile]][seed-crypto-app-tile-click]
+
+[seed-id-app-tile]: assets/images/products/seed-id-app-tile.png
+[seed-id-app-tile-click]: products#identity-app
+[seed-contacts-app-tile]: assets/images/products/seed-contacts-app-tile.png
+[seed-contacts-app-tile-click]: products#contacts-app
+[seed-crypto-app-tile]: assets/images/products/seed-crypto-app-tile.png
+[seed-crypto-app-tile-click]: products#crypto-app
+
+## Verification networks
+
+[![Verification networks - Seed network][verification-seed-tile]][verification-seed-tile-click]
+[![Verification networks - Independent networks][verification-more-tile]][verification-more-tile-click]
+
+[verification-seed-tile]: assets/images/products/verification-seed-tile.png
+[verification-seed-tile-click]: products#seed-verification-network
+[verification-more-tile]: assets/images/products/verification-more-tile.png
+[verification-more-tile-click]: products#independent-verification-networks
 
 ## Protocol
 
@@ -53,3 +72,7 @@ The main app a user goes to in order to search and retrieve contacts, as well as
 ## Seed verification network
 
 Seed verification network meant to kickstart the ecosystem and competition by independent verification networks and communities. Eventually majority of the verification networks used in the market are created, governed and supported by other players in the ecosystem, and powered by the Universal Identity protocol.
+
+## Independent verification networks
+
+Independent verification networks, each with their own brand, worldview, culture, and governance processes, competing for customers. The entities running such networks can be a single private company, a consortium of companies, a government, or a Decentralized Autonomous Organization (DAO).
