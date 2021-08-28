@@ -3,11 +3,9 @@ layout: page
 title: Roadmap
 permalink: /roadmap
 ---
-# Roadmap
-
 > Note: All information in this page are tentative and dependent on various factors such as funding, external events, validation of assumptions, business and technical learnings, etc. It represents our best effort to estimate the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community.
 
-## Stages
+## Roadmap stages
 
 [![Roadmap stages - Pre-seed][stages-pre-seed-tile]][stages-pre-seed-tile-click]
 [![Roadmap stages - Seed][stages-seed-tile]][stages-seed-tile-click]
