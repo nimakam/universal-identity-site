@@ -10,7 +10,7 @@ The idea of Universal Identity can best be explained in terms of problem and sol
 
 ## Problem
 
-The biggest part of the so called "identity problem" is the one that is out of plain sight. The biggest issue is the enormous macro-economic cost incurred on everyone using a fragmented collection of identity systems. Other problems can be limitations of existing technology around security, privacy and centralization, that need to be mitigated by a future solution.
+The biggest part of the so called "identity problem" is the one that is hidden from plain sight. The most significant issue by far is the enormous macro-economic cost forced on the collective in terms of usage, integration and maintenence of a fragmented collection of identity systems. Other parts of the identity problem are mostly due to limitations of existing technology around security, privacy and centralization, that need to be mitigated by a future solution. There are also problems that come with the new set of decentralized identity technologies, namely with recoverability and usability.
 
 ### Fragmentation
 
@@ -52,7 +52,7 @@ Most Web 3.0 identity systems are vulnerable to unexpected loss events, and miti
 
 ## Solution
 
-The final solution (Universal Identity system) is a distrbuted and decentralized identity system that supports private identities as well public ones, and can work in a hybrid manner offline, online and on-chain. This identity system functions according to a software protocol (Universal Identity protocol) designed to fulfill the requirements of the above solution.
+The final solution (Universal Identity system) is a distrbuted and decentralized identity system that supports private identities as well public ones, and can work in a hybrid manner, namely in offline, online and on-chain modes. This identity system functions according to a software protocol (Universal Identity protocol) meant to fulfill the requirements of the above solution.
 
 ### Password-less
 
