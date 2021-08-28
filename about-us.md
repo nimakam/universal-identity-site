@@ -24,7 +24,8 @@ We believe Universal Identity will complement and enhance the web the same way t
 [![Causes - Institutions][causes-institution-tile]][causes-institution-tile-click]
 [![Causes - Businesses][causes-business-tile]][causes-business-tile-click]
 [![Causes - Protection][causes-protection-tile]][causes-protection-tile-click]
-[![Causes - Interoperability][causes-interop-tile]][causes-interop-tile-click]
+<!-- [![Causes - Interoperability][causes-interop-tile]][causes-interop-tile-click] -->
+[![Causes - Compatibility][causes-compat-tile]][causes-compat-tile-click]
 
 [causes-rights-tile]: assets/images/about-us/causes-rights-tile.png
 [causes-rights-tile-click]: about-us#digital-rights
@@ -38,6 +39,8 @@ We believe Universal Identity will complement and enhance the web the same way t
 [causes-protection-tile-click]: about-us#protection
 [causes-interop-tile]: assets/images/about-us/causes-interop-tile.png
 [causes-interop-tile-click]: about-us#interoperability
+[causes-compat-tile]: assets/images/about-us/causes-compat-tile.png
+[causes-compat-tile-click]: about-us#Compatibility
 
 ## Our activities
 
