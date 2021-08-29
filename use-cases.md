@@ -43,185 +43,44 @@ permalink: /use-cases
 
 ### Login
 
-- App login from various apps and devices
-- Auto-login on trusted apps and devices
+Web logins are one of the most frequently performed identity-related action currently occurring on the web. Native app logins occur in the same order and often use the same underlying technologies.
+
+With the addition of decentralized identity technologies, users would be able to login cryptographically and without the use of passwords. They would also be able to create a account upon first commercial encounter, and use it each subsequent time.
+
+Login use cases include app logins from various apps and devices as well as auto-login functionality.
 
 ### Contacts
 
-- Adding/managing contacts
-- Sharing/accessing personal information
+Digital systems are currently being used by people as tools to more easily track and access their social connections including commercial 1. relationships with businesses, as well as 2. personal and social relationship with other people. The latter is the focus of this use case.
 
-### Communication
+Universal Identity keeps a master list of the user's contacts in the form of active connection artifacts that allow sharing personal information as well as privacy information. This funcationlity is exposable through any 3rd party contacts app that can at any time be replaced with another.
 
-- IM
-- Video
-- Phone
-- Hybrid
+Functions such as sharing contacts with other users are supported depending on permission from the original identity owner.
 
-### Group management
-
-- Family
-- Friends
-- Interest groups
-- Neighbors and neighborhoods
-- Sports and other recreational leagues/teams etc.
-
-### Commercial connections
-
-- Subscribing/connecting with businesses
-- Sharing/revoking personal information
-
-### Devices
-
-- Login/connect to devices
-- Initiating devices
-- Accessing/invoking routines
-- Managing access control
-- Maintenance
-
-Human connection to interaction devices like:
-
-- PCs
-- Phones
-- Tablets
-- TVs
-- Kiosks
-- etc.
-
-### Secrets
-
-- High security secret storage/retrieval used for passwords, and codes
-- Secret sharing
-
-### Reputation
-
-(partial on-chain)
-
-- Establishing public profiles
-- Posts
-- Public testimonials - Businesses reviews etc.
-
-### Legal agreements
-
-- Lease (auto, etc)
-- Purchase (housing, auto, etc)
-- Subscription/Rent (housing, retail, service, etc)
-- Project contract (housing, etc)
-  
 ### Crypto
 
-Crypto assets on chain, L1, L2 and all compatible chains.
+Public blockchains are growing in value and usage. The crypto set of technologies enables use-cases such as the custody of crypto assets, including stablecoins, custody of Non Fungible Tokens (NFTs) as well as the ability to interact with a wide collection of Decentralized Financial (DeFi) services.
 
-- Tokens and crypto-currencies
-- Finance
-- Payments
-- Exchange (Buy/sell of assets)
-- Custody
+The final few impediments to mass adoption, and digitally banking the unbanked, have a lot in common with the problems of digital identity. They both work to solve establishing secure digital identities that are permissionless, usable, and recoverable from unexpected events. They are also often based on the same cryptographic fundamentals of securely controlling private keys.
 
-#### Decentralized Finance (DeFi)
+In terms of usability, there already exists overlapping metaphors for keys, identity documentation, payment cards, fingerprints, signets, etc. In terms of technology, being able to securely maintain possession of cryptographic private keys is sufficient to secure access to other digital financial accounts including accounts on the blockchain. There is no reason why a digital identity solution for the masses cannot also be the backbone for digitally owning value on the blockchain-based financial infrastructure.
 
-- Hold
-- Take loan
-- Lend money
-- Borrow money
+A 3rd party crypto app integrated with Universal Identiy would be a usable, recoverable and substitutable interface to custody and access crypto and execute payments, exhcanges, other financial processes,as well as tokens custodying crypto assets on chain, including on all major L1s, L2s and compatible chains.
 
-#### NFTs
+### Other use cases
 
-- Buying and selling Non-fungible tokens
-
-### Content
-
-- Purchasing
-- Renting/sharing(transferring)
-- Selling
-
-Media types
-
-    - News articles
-    - Images/graphics
-    - Music
-    - Videos/movies/shows/broadcasts
-
-### Customer support
-
-- Support requests
-- Release and agreement management
-- Information and privacy policies
-- Investigation/diagnostics
-
-### Creditworthiness
-
-(partial on-chain?)
-
-- Permission to access credit record
-- Read/update credit records (central record set per primary identity)
-- Loan issuance and collateral balance decisions
-  
-### Identity operations
-
-(partial on-chain)
-
-KYC, AML, Fraud-detection, Identity-verification, Reputation:
-
-- Certifying validity and uniqueness of identity
-- Managing access to supporting documents (identities/certifications)
-
-### Trusted party, Estate planning, disaster recovery
-
-(partial on-chain)
-
-- Fraud prevention security measures (reviews, delays, etc)
-- Death or incapacitation planning and execution procedures.
-- Trusted party recovery planning and execution.
-
-### Verticals (sectors)
-
-#### Healthcare
-
-- Signup and information sharing
-- Sharing of medical history during enrollment
-- Managing access
-- Storing/retrieving medical records centrally
-
-#### Banking
-
-Common banking activities:
-
-- Create/update/close bank account
-- Deposit/withdraw/transfer money
-  - Decentralized Finance (DeFi) (on-chain)
-
-#### Retail
-
-Consumer retail experience:
-
-- Order
-- Coordination
-- Payment
-- Reviews
-- Connecting the process to logistics (shipping)
-
-#### Logistics
-
-Shipping:
-
-- Send
-- Receive
-- Tracking
-- Integrated with commerce process and identity connections
-
-### Horizontals (platforms)
-
-#### Public blockchain
-
-- Account identity security
-- Verification and reputation
-- Decentralized Finance (DeFi) (on-chain)
-
-#### Internet
-
-- Website identity security
-- Verification and reputation
+- Communication - Including media such as IM, video, phone, hybrid
+- Group management - Collective identities such as family, friends, interest groups, neighbours, sports teams, etc
+- Commercial connectios - The other half of the contacts use case, includes business subscriptions, personal information sharing and user agreements
+- Devices - Setting up, connecting with, managing acccess to and mainting devices such as PCs, phones, tablets, TVs, kiosks, cars, etc
+- Secrets - High security secret storage/retrieval used for passwords, and codes and secret sharing
+- Reputation - Establishing a public profile, statements, and public testimonials
+- Legal agreements - Fully digital version of agreements such as leases (auto, etc.), purchases (home, auto, etc.), subscriptions and rentals (hoome, retail, services, etc.) and projects.
+- Content - Purchasing, renting, sharing, and selling content media such as news articles, images, music, videos, movies, shows, etc.
+- Social content publishing - Publicly or privately publishing social content such as visual, textual or hybrid posts.
+- Trusted party, estate planning and disaster recovery - Fraud prevention security measures (reviews, delays, etc), death or incapacitation planning and execution procedures and trusted party recovery planning and execution.
+- Healthcare - Signup and information sharing, sharing of medical history during enrollment, managing access, and storage of medical records centrally
+- Retail - Consumer retail experiences of orders, coordination, payments, reviews
 
 ## Business
 
