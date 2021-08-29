@@ -78,7 +78,9 @@ You own and control your identity instead of that big tech company. You get to c
 
 ### Universal
 
-One identity app, one collection of identities, one contact list, one privacy source for all your digital and internet activities.
+One identity app, one collection of identities, one contact list, one privacy source for all your digital and internet activities. This means consumers have a lot less identity information they remember or keep track of.
+
+Universality also means that the same identity protocol operates accross majority of digital interactions and transactions. For application and service developers, this means being able to rely on one set of rules for interacting with people and systems, resulting in unlocking of innovation.
 
 ### Intuitive
 
@@ -86,12 +88,18 @@ Universal Identity is based on the human cognitive model of identity. Building s
 
 ### Private
 
-Supports private identities, privacy rules, and more.
+While others tout blockchain-based identity, we realize that approach comes with seriousl limitations in privacy. To serve its users, Universal identity needs to support private identities that match the way people intuitively understand privacy in multiple social circles. This also includes working with taks-based anonymous and pseudonymous identities. See ["How humans understand identity"↗️](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) for more information about our understanding of multi-identity.
+
+It also supports a method of formally expressing privacy preferences for conusmers, which can be used along with public discourse and policy to tighten and enforce privacy rules.
 
 ### Open
 
-Permission-less, and neutral like the internet & web.
+In order to build a strong and global ecosystem, it is crucial for the base protocol to be permissionless, censorship resistant, and neutral, otherwise it will not be able to bring in developers and other ecosystem stakeholders and jumpstart protocol growth.
+
+This is similar to the way that the internet, and the world-wide web have remained mostly neutral, decentralized and permissionless.
 
 ### Hybrid
 
-Supports offline, online and on-chain identities.
+Serving all identity owners means being able to satisfy varying requirements from different audiences such as consumers, early adopters, businesses and institutions. Each of these identity holder profiles have their own set of preferences and requirements for operating their identity, most importantly around security, privacy, usability and levels of security.
+
+As such it is not sufficient to only support fully public on-chain identities, or to just support online and always-connected identities operated by technology services. Any final solution should by defintion support offline, online and on-chain identities.
