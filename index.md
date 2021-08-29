@@ -54,11 +54,11 @@ permalink:
 [![Use cases - Institution][use-cases-institution-tile]][use-cases-institution-tile-click]
 
 [use-cases-consumer-tile]: assets/images/main/use-cases-consumer-tile.png
-[use-cases-consumer-tile-click]: use-cases#consumer
+[use-cases-consumer-tile-click]: use-cases#consumer-use-cases
 [use-cases-business-tile]: assets/images/main/use-cases-business-tile.png
-[use-cases-business-tile-click]: use-cases#business
+[use-cases-business-tile-click]: use-cases#business-use-cases
 [use-cases-institution-tile]: assets/images/main/use-cases-institution-tile.png
-[use-cases-institution-tile-click]: use-cases#institution
+[use-cases-institution-tile-click]: use-cases#institution-use-cases
 
 ## **Products**
 
