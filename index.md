@@ -64,11 +64,11 @@ permalink:
 
 [![Products - Protocol][products-protocol-tile]][products-protocol-tile-click]
 [![Products - Seed apps][products-seed-apps-tile]][products-seed-apps-tile-click]
-[![Products - Seed verification network][products-verification-tile]][products-protocol-tile-click]
+[![Products - Seed verification network][products-verification-tile]][products-verification-tile-click]
 
 [products-protocol-tile]: assets/images/main/products-protocol-tile.png
-[products-protocol-tile-click]: products#protocol
+[products-protocol-tile-click]: products#protocol-features
 [products-seed-apps-tile]: assets/images/main/products-seed-apps-tile.png
 [products-seed-apps-tile-click]: products#seed-apps
 [products-verification-tile]: assets/images/main/products-verification-tile.png
-[products-verification-tile-click]: products#seed-verification-network
+[products-verification-tile-click]: products#verification-network
