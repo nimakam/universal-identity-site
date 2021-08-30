@@ -3,7 +3,9 @@ layout: page
 title: Roadmap
 permalink: /roadmap
 ---
-> Note: All information in this page are tentative and dependent on various factors such as funding, external events, validation of assumptions, business and technical learnings, etc. It represents our best effort to estimate the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community.
+> Notice: Information here is tentative and dependent on various external factors. It represents our best effort to estimate delivery of future deliverables.
+
+ <!-- such as funding, external events, validation of assumptions, business and technical learnings, etc. the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community. -->
 
 ## Roadmap stages
 
@@ -22,7 +24,7 @@ permalink: /roadmap
 
 In this stage organization starts the work of proving out the Universal Identity protocol and seed apps. current stage estimated to last 6-12 months.
 
-### UID protocol V0.0.2
+<!-- ### UID protocol V0.0.2
 
 Consumer 1st use case - Online features
 
@@ -40,13 +42,13 @@ Early adopter 1st use case (Offline features)
 
 ### Sample crypto app
 
-Offline p2p app for 1st early adopter use case (Crypto app)
+Offline p2p app for 1st early adopter use case (Crypto app) -->
 
 ## Seed
 
-Next stage estimated to last 9-18 months.
+In this stage the organization begins to work with independent private businesses and serve actual end-customers (consumers and early adopters) with specific end-to-end use cases. This next stage estimated to last 9-18 months.
 
-### UID protocol V0.1.0
+<!-- ### UID protocol V0.1.0
 
 Basic consumer use cases
 
@@ -58,7 +60,7 @@ online version
 
 Basic early adopter use cases
 
-### Staging verification network
+### Staging verification network -->
 
 ## Beyond
 

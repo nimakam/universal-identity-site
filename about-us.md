@@ -76,7 +76,7 @@ Universal Identity starts with the idea that ["The internet should have a native
 [human-centered-approach-left]: assets/images/about-us/human-centered-approach-left.png
 [human-centered-approach-right]: assets/images/about-us/human-centered-approach-right.png
 
-
+<!-- 
 ## Causes
 
 ### Digital rights
@@ -131,4 +131,4 @@ Kick-starting and supporting the ecosystem from scratch, requiring extra efforts
 
 ### General administration
 
-General administration activities within the Universal Identity non-profit organization and its board of director.
+General administration activities within the Universal Identity non-profit organization and its board of director. -->
