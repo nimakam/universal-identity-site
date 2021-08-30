@@ -39,21 +39,27 @@ permalink: /products
 [verification-more-tile]: assets/images/products/verification-more-tile.png
 [verification-more-tile-click]: products#independent-verification-networks
 
-<!-- ## Protocol
+## Protocol
 
-Logical definition of the protocol including federation across multiple protocol instances.
+The Universal Identity protocol governs the technical operation of the Universal Identity system. The protocol is designed to operate in a distributed and decentralized manner, using posession of private cryptographic keys as the main proof point of identity control and operation. All the while the protocol also supports features such as recoverability, guardianship and multiple identities with integrated data sharing and privacy.
 
-### Properties
+### Recovery
 
-#### Open
+Most modern identity systems support methods of recovering from unexpected and undesirable events such as loss of devices or credentials. However these processes often include approval from the same central authority than owns and operates the identity. In the world of decentralized identity, this becomes a new difficult problem that has to be solved again. Most, if not all, other solutions do not do a good job of providing recovery functionality in a usable manner.
 
-#### Permissionless
+In Universal Identity, identity owners can recover access after loss of credentials, device or other unexpected and undesirable events, in a usable manner, because the protocol enforces a few easy mitigation steps when setting up the identity with a desired level of security.
 
-#### Neutral 
+### Guardianship
 
-### Features
+In most modern identity systems the same central authority than owns and operates the identity acts as the primary guardian and monitor undesirable event for the right price. In the world of decentralized identity, this becomes a new difficult problem that has to be solved again. Most, if not all, other solutions do not do a good job of providing the guardianship functionality in a usable manner.
 
-#### Recovery -->
+In Universal Identity, identity owners can designate trusted people and entities as guardians of their identity and assets in cases of absence, incpacitation, or even death. They are notified when suspicious or malicious event occur, and are in a position to prevent or postpone event completion until fully resolving its correctness. They can also directly act as guardians in case of incpacitation and death based the rules set up by the original owner.
+
+### Multi-identity
+
+The system allows you to manage and use all your social circles from one place using multiple identities, with varying privacy preferences, and using the same source information.
+
+While others tout a single public blockchain-based identity, we realize that approach comes with serious limitations to usability and privacy. Universal Identity supports multiple identities, in order to match the way people intuitively understand their multiple identities within multiple social circles. See ["How humans understand identity"↗️](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) for more information about our understanding of multiple identities.
 
 ## Seed apps
 

@@ -88,7 +88,7 @@ Universal Identity is based on the human cognitive model of identity. Building s
 
 ### Private
 
-While others tout blockchain-based identity, we realize that approach comes with seriousl limitations in privacy. To serve its users, Universal identity needs to support private identities that match the way people intuitively understand privacy in multiple social circles. This also includes working with taks-based anonymous and pseudonymous identities. See ["How humans understand identity"↗️](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) for more information about our understanding of multi-identity.
+While others tout blockchain-based identity, we realize that approach comes with serious limitations to privacy. To serve its users, Universal identity needs to support private identities that match the way people intuitively understand privacy in multiple social circles. This also includes working with taks-based anonymous and pseudonymous identities. See ["How humans understand identity"↗️](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) for more information about our understanding of multi-identity.
 
 It also supports a method of formally expressing privacy preferences for conusmers, which can be used along with public discourse and policy to tighten and enforce privacy rules.
 
