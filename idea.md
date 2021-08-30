@@ -18,7 +18,12 @@ Friction & non-interoperability across identity providers harms everyone includi
 
 For consumers, the proliferation of identity systems, depending on user name and passwords, across service providers covering the many aspects of our digital lives, has made managing our credentials more and more difficult.
 
-For technology developers, the inability to rely on a neutral identity platform, means they have one of two paths. Either they have to create their own custom identity solution and pass the operational and usability costs to their customers, or choose to go with a big tech identity platform and make life a bit easire for their customers, but have to always worry about strategic dependency on big tech.
+For technology developers, the inability to rely on a neutral identity platform, means they have one of two paths:
+
+1. Create their own custom identity solution and pass the operational and usability costs to their customers.
+2. Choose to go with a big tech identity platform and make life a bit easire for their customers, but have to always worry about strategic dependency on big tech.
+
+Needless to say neither of these paths are ideal. There should be a third better way.
 
 ### Security
 
