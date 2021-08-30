@@ -39,7 +39,7 @@ permalink: /products
 [verification-more-tile]: assets/images/products/verification-more-tile.png
 [verification-more-tile-click]: products#independent-verification-networks
 
-## Protocol
+<!-- ## Protocol
 
 Logical definition of the protocol including federation across multiple protocol instances.
 
@@ -49,11 +49,11 @@ Logical definition of the protocol including federation across multiple protocol
 
 #### Permissionless
 
-#### Neutral
+#### Neutral 
 
 ### Features
 
-#### Recovery
+#### Recovery -->
 
 ## Seed apps
 

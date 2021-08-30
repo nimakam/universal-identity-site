@@ -81,6 +81,7 @@ A 3rd party crypto app integrated with Universal Identiy would be a usable, reco
 - Trusted party, estate planning and disaster recovery - Fraud prevention security measures (reviews, delays, etc), death or incapacitation planning and execution procedures and trusted party recovery planning and execution.
 - Healthcare - Signup and information sharing, sharing of medical history during enrollment, managing access, and storage of medical records centrally
 - Retail - Consumer retail experiences of orders, coordination, payments, reviews
+
 <!-- 
 ## Business
 
