@@ -15,7 +15,7 @@ We believe Universal Identity will complement and enhance the web the same way t
 
 ## Our mission
 
-> **We work to enhance everyone's digital lives through interoperability, privacy, security, and consumer choice.**
+> **We work to enhance everyone's digital lives through inter-operability, privacy, security, and consumer choice.**
 
 ## Our causes
 
