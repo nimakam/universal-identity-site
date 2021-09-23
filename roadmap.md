@@ -14,13 +14,13 @@ permalink: /roadmap
 [![Roadmap stages - Beyond][stages-beyond-tile]][stages-beyond-tile-click]
 
 [stages-pre-seed-tile]: assets/images/roadmap/stages-pre-seed-tile.png
-[stages-pre-seed-tile-click]: roadmap#pre-seed
+[stages-pre-seed-tile-click]: roadmap#-pre-seed
 [stages-seed-tile]: assets/images/roadmap/stages-seed-tile.png
-[stages-seed-tile-click]: roadmap#seed
+[stages-seed-tile-click]: roadmap#-seed
 [stages-beyond-tile]: assets/images/roadmap/stages-beyond-tile.png
-[stages-beyond-tile-click]: roadmap#beyond
+[stages-beyond-tile-click]: roadmap#-beyond
 
-## Pre-seed
+## ☀️ Pre-seed
 
 In this stage organization starts the work of proving out the Universal Identity protocol and seed apps. current stage estimated to last 6-12 months.
 
@@ -44,7 +44,7 @@ Early adopter 1st use case (Offline features)
 
 Offline p2p app for 1st early adopter use case (Crypto app) -->
 
-## Seed
+## 🌱 Seed
 
 In this stage the organization begins to work with independent private businesses and serve actual end-customers (consumers and early adopters) with specific end-to-end use cases. This next stage estimated to last 9-18 months.
 
@@ -62,6 +62,6 @@ Basic early adopter use cases
 
 ### Staging verification network -->
 
-## Beyond
+## 💬 Beyond
 
 Not much is known about these stages other than increased scale. Given the current set of assumptions and the high possibility of changes to the direction of this venture, we will revisit planning for stages beyond what is already mentioned.

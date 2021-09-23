@@ -54,11 +54,11 @@ permalink:
 [![Use cases - Institution][use-cases-institution-tile]][use-cases-institution-tile-click]
 
 [use-cases-consumer-tile]: assets/images/main/use-cases-consumer-tile.png
-[use-cases-consumer-tile-click]: use-cases#consumer-use-cases
+[use-cases-consumer-tile-click]: use-cases#-consumer-use-cases
 [use-cases-business-tile]: assets/images/main/use-cases-business-tile.png
-[use-cases-business-tile-click]: use-cases#business-use-cases
+[use-cases-business-tile-click]: use-cases#-business-use-cases
 [use-cases-institution-tile]: assets/images/main/use-cases-institution-tile.png
-[use-cases-institution-tile-click]: use-cases#institution-use-cases
+[use-cases-institution-tile-click]: use-cases#-institution-use-cases
 
 ## **Products**
 
@@ -100,7 +100,7 @@ For technology developers, the inability to rely on a neutral identity platform,
 
 Needless to say neither of these paths are ideal. There should be a third better way.
 
-### 🔐 Security
+### 🔒 Security
 
 One of the most significant negative impacts digital technology and the internet have had on society has been an unintended one, a much higher possibility of system compromises. As a result of the vast reduction of cost in information transmission and information storage, we now rely on systems that digitize and replicate our interactions and are commonly always-connected to the internet. 
 
