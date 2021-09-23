@@ -35,9 +35,9 @@ permalink: /use-cases
 [![Institution use cases - Financial transparency][institution-finance-tile]][institution-finance-tile-click]
 
 [institution-cred-tile]: assets/images/use-cases/institution-cred-tile.png
-[institution-cred-tile-click]: use-cases#credentials
+[institution-cred-tile-click]: use-cases#-credentials
 [institution-finance-tile]: assets/images/use-cases/institution-finance-tile.png
-[institution-finance-tile-click]: use-cases#financial-transparency
+[institution-finance-tile-click]: use-cases#-financial-transparency
 
 ## Consumer
 

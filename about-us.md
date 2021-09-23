@@ -34,7 +34,7 @@ We believe Universal Identity will complement and enhance the web the same way t
 [causes-institution-tile]: assets/images/about-us/causes-institution-tile.png
 [causes-institution-tile-click]: about-us#-institutions
 [causes-business-tile]: assets/images/about-us/causes-business-tile.png
-[causes-business-tile-click]: about-us#-business
+[causes-business-tile-click]: about-us#-businesses
 [causes-protection-tile]: assets/images/about-us/causes-protection-tile.png
 [causes-protection-tile-click]: about-us#-protection
 [causes-interop-tile]: assets/images/about-us/causes-interop-tile.png
