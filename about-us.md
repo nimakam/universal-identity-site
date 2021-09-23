@@ -28,7 +28,7 @@ We believe Universal Identity will complement and enhance the web the same way t
 [![Causes - Compatibility][causes-compat-tile]][causes-compat-tile-click]
 
 [causes-rights-tile]: assets/images/about-us/causes-rights-tile.png
-[causes-rights-tile-click]: about-us#-digital-rights
+[causes-rights-tile-click]: about-us#-causes
 [causes-usability-tile]: assets/images/about-us/causes-usability-tile.png
 [causes-usability-tile-click]: about-us#-usability
 [causes-institution-tile]: assets/images/about-us/causes-institution-tile.png
@@ -98,7 +98,7 @@ Productive identity for enterprises and their stakeholders.
 
 Protection for underprivileged identity owners. Digital tehchnology can be (and often has been) used to discriminate and amplify social, political and economic disparities, which has led to an increasing need to mitigate these effects. The technology is often part of the answer to such problems, however working through governance and policy issues remains a significant part also.
 
-### 🌍 Interoperability
+### 🌍 Compatibility
 
 Universal interoperability for all digital identities be they for people, organizations, other entities, things, or machines. This level of compatibility, while maintaining a high level of security, ensures reduced costs at the macro level, and unlocks enormous levels of value as more effective and more innovative solutions are brought to a market unrestricted by lock-in and incompatibility.
 
