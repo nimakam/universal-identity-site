@@ -3,20 +3,20 @@ layout: page
 title: Use cases
 permalink: /use-cases
 ---
-## Consumer use cases
+## 🏠 Consumer use cases
 
 [![Consumer use cases - Login][consumer-login-tile]][consumer-login-tile-click]
 [![Consumer use cases - Contacts][consumer-contacts-tile]][consumer-contacts-tile-click]
 [![Consumer use cases - Crypto assets (DeFi)][consumer-crypto-tile]][consumer-crypto-tile-click]
 
 [consumer-login-tile]: assets/images/use-cases/consumer-login-tile.png
-[consumer-login-tile-click]: use-cases#login
+[consumer-login-tile-click]: use-cases#-login
 [consumer-contacts-tile]: assets/images/use-cases/consumer-contacts-tile.png
-[consumer-contacts-tile-click]: use-cases#contacts
+[consumer-contacts-tile-click]: use-cases#-contacts
 [consumer-crypto-tile]: assets/images/use-cases/consumer-crypto-tile.png
-[consumer-crypto-tile-click]: use-cases#crypto
+[consumer-crypto-tile-click]: use-cases#-crypto
 
-## Business use cases
+## 🏢 Business use cases
 
 [![Business use cases - Customer journey][business-customer-tile]][business-customer-tile-click]
 [![Business use cases - Identity Access Management][business-iam-tile]][business-iam-tile-click]
@@ -29,7 +29,7 @@ permalink: /use-cases
 [business-defi-tile]: assets/images/use-cases/business-defi-tile.png
 [business-defi-tile-click]: use-cases#business-defi
 
-## Institution use cases
+## 🏛 Institution use cases
 
 [![Institution use cases - Credentials][institution-cred-tile]][institution-cred-tile-click]
 [![Institution use cases - Financial transparency][institution-finance-tile]][institution-finance-tile-click]
@@ -41,7 +41,7 @@ permalink: /use-cases
 
 ## Consumer
 
-### Login
+### 👆 Login
 
 Web logins are one of the most frequently performed identity-related action currently occurring on the web. Native app logins occur in the same order and often use the same underlying technologies.
 
@@ -49,15 +49,15 @@ With the addition of decentralized identity technologies, users would be able to
 
 Login use cases include app logins from various apps and devices as well as auto-login functionality.
 
-### Contacts
+### 📇 Contacts
 
 Digital systems are currently being used by people as tools to more easily track and access their social connections including commercial 1. relationships with businesses, as well as 2. personal and social relationship with other people. The latter is the focus of this use case.
 
-Universal Identity keeps a master list of the user's contacts in the form of active connection artifacts that allow sharing personal information as well as privacy information. This funcationlity is exposable through any 3rd party contacts app that can at any time be replaced with another.
+The Universal Identity protocol helps keep a master list of the user's contacts in the form of active connection artifacts that allow sharing personal information as well as privacy information. This functionality is exposable through any 3rd party contacts app that can at any time be replaced with another.
 
 Functions such as sharing contacts with other users are supported depending on permission from the original identity owner.
 
-### Crypto
+### 💸 Crypto
 
 Public blockchains are growing in value and usage. The crypto set of technologies enables use-cases such as the custody of crypto assets, including stablecoins, custody of Non Fungible Tokens (NFTs) as well as the ability to interact with a wide collection of Decentralized Financial (DeFi) services.
 
@@ -65,23 +65,24 @@ The final few impediments to mass adoption, and digitally banking the unbanked, 
 
 In terms of usability, there already exists overlapping metaphors for keys, identity documentation, payment cards, fingerprints, signets, etc. In terms of technology, being able to securely maintain possession of cryptographic private keys is sufficient to secure access to other digital financial accounts including accounts on the blockchain. There is no reason why a digital identity solution for the masses cannot also be the backbone for digitally owning value on the blockchain-based financial infrastructure.
 
-A 3rd party crypto app integrated with Universal Identiy would be a usable, recoverable and substitutable interface to custody and access crypto and execute payments, exhcanges, other financial processes,as well as tokens custodying crypto assets on chain, including on all major L1s, L2s and compatible chains.
+A 3rd party crypto app integrated with Universal Identity would be a usable, recoverable and substitutable interface to custody and access crypto and execute payments, exchanges, other financial processes, as well as tokens custodying crypto assets on chain, including on all major L1s, L2s and compatible chains.
 
-### Other use cases
+### 💬 Other consumer use cases
 
 - Communication - Including media such as IM, video, phone, hybrid
-- Group management - Collective identities such as family, friends, interest groups, neighbours, sports teams, etc
-- Commercial connectios - The other half of the contacts use case, includes business subscriptions, personal information sharing and user agreements
-- Devices - Setting up, connecting with, managing acccess to and mainting devices such as PCs, phones, tablets, TVs, kiosks, cars, etc
+- Group management - Collective identities such as family, friends, interest groups, neighbors, sports teams, etc.
+- Commercial connections - The other half of the contacts use case, includes business subscriptions, personal information sharing and user agreements
+- Devices - Setting up, connecting with, managing access to and maintain devices such as PCs, phones, tablets, TVs, kiosks, cars, etc.
 - Secrets - High security secret storage/retrieval used for passwords, and codes and secret sharing
 - Reputation - Establishing a public profile, statements, and public testimonials
-- Legal agreements - Fully digital version of agreements such as leases (auto, etc.), purchases (home, auto, etc.), subscriptions and rentals (hoome, retail, services, etc.) and projects.
+- Legal agreements - Fully digital version of agreements such as leases (auto, etc.), purchases (home, auto, etc.), subscriptions and rentals (home, retail, services, etc.) and projects.
 - Content - Purchasing, renting, sharing, and selling content media such as news articles, images, music, videos, movies, shows, etc.
 - Social content publishing - Publicly or privately publishing social content such as visual, textual or hybrid posts.
-- Trusted party, estate planning and disaster recovery - Fraud prevention security measures (reviews, delays, etc), death or incapacitation planning and execution procedures and trusted party recovery planning and execution.
+- Trusted party, estate planning and disaster recovery - Fraud prevention security measures (reviews, delays, etc.), death or incapacitation planning and execution procedures and trusted party recovery planning and execution.
 - Healthcare - Signup and information sharing, sharing of medical history during enrollment, managing access, and storage of medical records centrally
 - Retail - Consumer retail experiences of orders, coordination, payments, reviews
 
+<!-- 
 ## Business
 
 ### Reputation management
@@ -218,4 +219,4 @@ Degree certification:
 
 Certification:
 
-- Certifying/renewing/revoking certificate of membership
+- Certifying/renewing/revoking certificate of membership -->
