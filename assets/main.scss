@@ -125,6 +125,10 @@ p {
       @include relative-font-size(1.55);
     }
   }
+
+  h4 {
+    font-weight: bold;
+  }
 }
 
 .cover {
