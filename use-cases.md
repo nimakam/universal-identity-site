@@ -10,11 +10,11 @@ permalink: /use-cases
 [![Consumer use cases - Crypto assets (DeFi)][consumer-crypto-tile]][consumer-crypto-tile-click]
 
 [consumer-login-tile]: assets/images/use-cases/consumer-login-tile.png
-[consumer-login-tile-click]: use-cases#login
+[consumer-login-tile-click]: use-cases#-login
 [consumer-contacts-tile]: assets/images/use-cases/consumer-contacts-tile.png
-[consumer-contacts-tile-click]: use-cases#contacts
+[consumer-contacts-tile-click]: use-cases#-contacts
 [consumer-crypto-tile]: assets/images/use-cases/consumer-crypto-tile.png
-[consumer-crypto-tile-click]: use-cases#crypto
+[consumer-crypto-tile-click]: use-cases#-crypto
 
 ## 🏢 Business use cases
 

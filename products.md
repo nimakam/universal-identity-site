@@ -10,11 +10,11 @@ permalink: /products
 [![Protocol features - Multi-identity][protocol-multi-id-tile]][protocol-multi-id-tile-click]
 
 [protocol-recovery-tile]: assets/images/products/protocol-recovery-tile.png
-[protocol-recovery-tile-click]: products#recovery
+[protocol-recovery-tile-click]: products#-recovery
 [protocol-guardian-tile]: assets/images/products/protocol-guardian-tile.png
-[protocol-guardian-tile-click]: products#guardianship
+[protocol-guardian-tile-click]: products#-guardianship
 [protocol-multi-id-tile]: assets/images/products/protocol-multi-id-tile.png
-[protocol-multi-id-tile-click]: products#multi-identity
+[protocol-multi-id-tile-click]: products#-multi-identity
 
 ## 🌱 Seed apps
 
@@ -23,11 +23,11 @@ permalink: /products
 [![Seed apps - Crypto app][seed-crypto-app-tile]][seed-crypto-app-tile-click]
 
 [seed-id-app-tile]: assets/images/products/seed-id-app-tile.png
-[seed-id-app-tile-click]: products#identity-app
+[seed-id-app-tile-click]: products#-identity-app
 [seed-contacts-app-tile]: assets/images/products/seed-contacts-app-tile.png
-[seed-contacts-app-tile-click]: products#contacts-app
+[seed-contacts-app-tile-click]: products#-contacts-app
 [seed-crypto-app-tile]: assets/images/products/seed-crypto-app-tile.png
-[seed-crypto-app-tile-click]: products#crypto-app
+[seed-crypto-app-tile-click]: products#-crypto-app
 
 ## ✅ Verification networks
 
@@ -35,9 +35,9 @@ permalink: /products
 [![Verification networks - Independent networks][verification-more-tile]][verification-more-tile-click]
 
 [verification-seed-tile]: assets/images/products/verification-seed-tile.png
-[verification-seed-tile-click]: products#seed-verification-network
+[verification-seed-tile-click]: products#-seed-verification-network
 [verification-more-tile]: assets/images/products/verification-more-tile.png
-[verification-more-tile-click]: products#independent-verification-networks
+[verification-more-tile-click]: products#-independent-verification-networks
 
 ## Protocol
 

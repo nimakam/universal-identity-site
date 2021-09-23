@@ -12,15 +12,15 @@ permalink:
 [![Problem - Verification][problem-verification-tile]][problem-verification-tile-click]
 
 [problem-fragment-tile]: assets/images/main/problem-fragment-tile.png
-[problem-fragment-tile-click]: #fragmentation
+[problem-fragment-tile-click]: #-fragmentation
 [problem-privacy-tile]: assets/images/main/problem-privacy-tile.png
-[problem-privacy-tile-click]: #privacy
+[problem-privacy-tile-click]: #-privacy
 [problem-security-tile]: assets/images/main/problem-security-tile.png
-[problem-security-tile-click]: #security
+[problem-security-tile-click]: #-security
 [problem-monopoly-tile]: assets/images/main/problem-monopoly-tile.png
-[problem-monopoly-tile-click]: #monopoly
+[problem-monopoly-tile-click]: #-monopoly
 [problem-verification-tile]: assets/images/main/problem-verification-tile.png
-[problem-verification-tile-click]: #verification
+[problem-verification-tile-click]: #-verification
 
 ## **Solution: Universal Identity**
 
@@ -33,19 +33,19 @@ permalink:
 [![Solution - Hybrid][solution-hybrid-tile]][solution-hybrid-tile-click]
 
 [solution-passwordless-tile]: assets/images/main/solution-passwordless-tile.png
-[solution-passwordless-tile-click]: #password-less
+[solution-passwordless-tile-click]: #-password-less
 [solution-self-own-tile]: assets/images/main/solution-self-own-tile.png
-[solution-self-own-tile-click]: #self-owned
+[solution-self-own-tile-click]: #-self-owned
 [solution-universality-tile]: assets/images/main/solution-universality-tile.png
-[solution-universality-tile-click]: #universal
+[solution-universality-tile-click]: #-universal
 [solution-intuitive-tile]: assets/images/main/solution-intuitive-tile.png
-[solution-intuitive-tile-click]: #intuitive
+[solution-intuitive-tile-click]: #-intuitive
 [solution-private-tile]: assets/images/main/solution-private-tile.png
-[solution-private-tile-click]: #private
+[solution-private-tile-click]: #-private
 [solution-open-tile]: assets/images/main/solution-open-tile.png
-[solution-open-tile-click]: #open
+[solution-open-tile-click]: #-open
 [solution-hybrid-tile]: assets/images/main/solution-hybrid-tile.png
-[solution-hybrid-tile-click]: #hybrid
+[solution-hybrid-tile-click]: #-hybrid
 
 ## **Use cases**
 
@@ -67,11 +67,11 @@ permalink:
 [![Products - Seed verification network][products-verification-tile]][products-verification-tile-click]
 
 [products-protocol-tile]: assets/images/main/products-protocol-tile.png
-[products-protocol-tile-click]: products#protocol-features
+[products-protocol-tile-click]: products#-protocol-features
 [products-seed-apps-tile]: assets/images/main/products-seed-apps-tile.png
-[products-seed-apps-tile-click]: products#seed-apps
+[products-seed-apps-tile-click]: products#-seed-apps
 [products-verification-tile]: assets/images/main/products-verification-tile.png
-[products-verification-tile-click]: products#verification-network
+[products-verification-tile-click]: products#-verification-network
 
 ## **Other pages**
 
