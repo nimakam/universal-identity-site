@@ -22,7 +22,7 @@ permalink: /roadmap
 
 ## ☀️ Pre-seed
 
-In this stage organization starts the work of proving out the Universal Identity protocol and seed apps. current stage estimated to last 6-12 months.
+In this stage organization starts the work of proving out the Universal Identity protocol and seed apps. Current stage estimated to last 6-12 months.
 
 <!-- ### UID protocol V0.0.2
 
@@ -46,7 +46,7 @@ Offline p2p app for 1st early adopter use case (Crypto app) -->
 
 ## 🌱 Seed
 
-In this stage the organization begins to work with independent private businesses and serve actual end-customers (consumers and early adopters) with specific end-to-end use cases. This next stage estimated to last 9-18 months.
+In this stage the organization begins to work with independent private businesses and serve actual end-customers (consumers and early adopters) with specific end-to-end use cases. This stage is estimated to last 9-18 months.
 
 <!-- ### UID protocol V0.1.0
 
