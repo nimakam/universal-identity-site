@@ -23,11 +23,11 @@ permalink: /use-cases
 [![Business use cases - Business DeFi][business-defi-tile]][business-defi-tile-click]
 
 [business-customer-tile]: assets/images/use-cases/business-customer-tile.png
-[business-customer-tile-click]: use-cases#customer-journey-management
+[business-customer-tile-click]: use-cases#-customer-journey-management
 [business-iam-tile]: assets/images/use-cases/business-iam-tile.png
-[business-iam-tile-click]: use-cases#identity-access-management
+[business-iam-tile-click]: use-cases#-identity-access-management
 [business-defi-tile]: assets/images/use-cases/business-defi-tile.png
-[business-defi-tile-click]: use-cases#business-defi
+[business-defi-tile-click]: use-cases#-business-defi
 
 ## 🏛 Institution use cases
 
@@ -35,9 +35,9 @@ permalink: /use-cases
 [![Institution use cases - Financial transparency][institution-finance-tile]][institution-finance-tile-click]
 
 [institution-cred-tile]: assets/images/use-cases/institution-cred-tile.png
-[institution-cred-tile-click]: use-cases#credentials
+[institution-cred-tile-click]: use-cases#-credentials
 [institution-finance-tile]: assets/images/use-cases/institution-finance-tile.png
-[institution-finance-tile-click]: use-cases#financial-transparency
+[institution-finance-tile-click]: use-cases#-financial-transparency
 
 ## Consumer
 
@@ -81,6 +81,30 @@ A 3rd party crypto app integrated with Universal Identity would be a usable, rec
 - Trusted party, estate planning and disaster recovery - Fraud prevention security measures (reviews, delays, etc.), death or incapacitation planning and execution procedures and trusted party recovery planning and execution.
 - Healthcare - Signup and information sharing, sharing of medical history during enrollment, managing access, and storage of medical records centrally
 - Retail - Consumer retail experiences of orders, coordination, payments, reviews
+
+## Business
+
+### 👩🏻 Customer journey management
+
+Uniform method of reaching customers, through a direct digital channel. Also giving customers more control of the direct connection they have with your brand, and formalizing customer agreements with cryptographic signing technology.
+
+### 🔐 Identity access management
+
+Uniform and secure implementations of Identity Access Management systems across all customers, employees and partners, with a unified set of tools for monitoring, authorization and security management.
+
+### 💸 Business DeFi
+
+Using digital tokens in place of customer payments for digital as well as physical goods and services. Managing payroll payments in crypto or other crypto-tokens. Treasury management by storing cryptocurrency or other digital assets on a public blockchain, and managing its growth through on-chain investment mechanisms.
+
+## Institution
+
+### 💳 Credentials
+
+Standardized method of issuing and verifying credentials using cryptographic technologies, while minimizing the amount of data needed to whare with a verifier, thus enhancing privacy for users.
+
+### 🔎 Financial transparency
+
+Keeping the reputational and transactional information about a public entity on the blockchain, so that it always remains auditable by the public. This enables recording and retrieval of up-to-date financial information and transparent budget allocation.
 
 <!-- 
 ## Business

@@ -84,7 +84,7 @@ p {
 }
 
 .wrapper {
-  max-width: unset;
+  max-width: 1504px;
   display: flex;
 }
 
@@ -124,6 +124,10 @@ p {
     @include media-query($on-laptop) {
       @include relative-font-size(1.55);
     }
+  }
+
+  h4 {
+    font-weight: bold;
   }
 }
 
