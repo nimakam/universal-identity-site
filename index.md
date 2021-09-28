@@ -110,7 +110,7 @@ This means that the compromise of our personal information, and our access to th
 
 As a result of the vast reduction of cost in information transmission and information storage, personal information is now more prone to replication and abuse, especially when compared to the past's paper-based systems.
 
-Privacy as a right has always had a place in human cultures but with varying norms. More recently with the ascent of digital technology these norms are being tested. Still there is some agreement, at least in western democracies, that personal information is akin to rights inherent to individuals, and that they cannot be treated like property.
+Privacy as a right has always had a place in human cultures but with varying norms. More recently with the ascent of digital technology these norms are being tested. Still there is some agreement, at least in western democracies, that personal information is akin to rights inherent to individuals, and that it cannot be treated like property.
 
 Yet we see significant and large-scale abuse of privacy rights are forced onto consumers through surveillance, tracking and advertisement.
 
