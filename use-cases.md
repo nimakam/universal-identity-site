@@ -65,7 +65,7 @@ The final few impediments to mass adoption, and digitally banking the unbanked, 
 
 In terms of usability, there already exists overlapping metaphors for keys, identity documentation, payment cards, fingerprints, signets, etc. In terms of technology, being able to securely maintain possession of cryptographic private keys is sufficient to secure access to other digital financial accounts including accounts on the blockchain. There is no reason why a digital identity solution for the masses cannot also be the backbone for digitally owning value on the blockchain-based financial infrastructure.
 
-A 3rd party crypto app integrated with Universal Identity would be a usable, recoverable and substitutable interface to custody and access crypto and execute payments, exchanges, other financial processes, as well as tokens custodying crypto assets on chain, including on all major L1s, L2s and compatible chains.
+A third party crypto app integrated with Universal Identity would be a usable, recoverable and substitutable interface to custody and access crypto and execute payments, exchanges, other financial processes, as well as tokens custodying crypto assets on chain, including on all major L1s, L2s and compatible chains.
 
 ### 💬 Other consumer use cases
 
@@ -86,7 +86,7 @@ A 3rd party crypto app integrated with Universal Identity would be a usable, rec
 
 ### 👩🏻 Customer journey management
 
-Uniform method of reaching customers, through a direct digital channel. Also giving customers more control of the direct connection they have with your brand, and formalizing customer agreements with cryptographic signing technology.
+Uniform method of reaching customers, through a direct digital channel. Also giving customers more control of the direct connection, they have with your brand, and formalizing customer agreements with cryptographic signing technology.
 
 ### 🔐 Identity access management
 
@@ -94,7 +94,7 @@ Uniform and secure implementations of Identity Access Management systems across 
 
 ### 💸 Business DeFi
 
-Using digital tokens in place of customer payments for digital as well as physical goods and services. Managing payroll payments in crypto or other crypto-tokens. Treasury management by storing cryptocurrency or other digital assets on a public blockchain, and managing its growth through on-chain investment mechanisms.
+Using digital tokens in place of customer payments for digital as well as physical goods and services. Managing payroll payments in crypto or other crypto-tokens. Treasury management by storing cryptocurrency or other digital assets on a public blockchain and managing its growth through on-chain investment mechanisms.
 
 ## Institution
 
@@ -139,7 +139,7 @@ Keeping the reputational and transactional information about a public entity on 
 - Accessing resources
 - Auditing
 - Managing access
-- etc
+- etc.
 
 ### Customer journey management
 
@@ -164,7 +164,7 @@ Keeping the reputational and transactional information about a public entity on 
 
 #### Business DeFi
 
-aka Business Decentralized Finance, or managing a business' assets on-chain.
+aka Business Decentralized Finance or managing a business' assets on-chain.
 
 - Treasury management
 - Employee payments (payroll)
@@ -213,7 +213,7 @@ End to and tracking through consortium or public standards
 
 ### Political influence remediation
 
-- Elections finance and influence transparency
+- Elections' finance and influence transparency
 - Public record of candidates
 - Lobbyist
 - Donor activities and finances

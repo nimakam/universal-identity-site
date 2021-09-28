@@ -2,7 +2,7 @@
 
 Contents of this repository represent the source code and images behind <https://universal.id>.
 
-The website is hosted using GitHub pages, and uses customizations to the Minimal Jekyll template. Any changes to the repository are directly reflected to the site.
+The website is hosted using GitHub pages and uses customizations to the Minimal Jekyll template. Any changes to the repository are directly reflected to the site.
 
 Following are some of the website's aspects and properties:
 

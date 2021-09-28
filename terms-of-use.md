@@ -31,7 +31,7 @@ For the purposes of these Terms and Conditions:
 - Service refers to the Website.
 - Terms and Conditions (also referred as "Terms") mean these Terms and
     Conditions that form the entire agreement between You and the Company
-    regarding the use of the Service. This Terms and Conditions agreement as
+    regarding the use of the Service. This Terms and Conditions agreement has
     been created with the help of [Terms and Conditions
     Generator](https://www.termsfeed.com/terms-conditions-generator/).
 - Third-party Social Media Service means any services or content (including
