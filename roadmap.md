@@ -3,7 +3,7 @@ layout: page
 title: Roadmap
 permalink: /roadmap
 ---
-> Notice: Information here is tentative and dependent on various external factors. It represents our best effort to estimate delivery of future deliverables.
+> **Notice: Information here is tentative and dependent on various external factors. It represents our best effort to estimate delivery of future deliverables.**
 
  <!-- such as funding, external events, validation of assumptions, business and technical learnings, etc. the future deliverables by the Universal Identity non-profit organization as well as the Universal Identity community. -->
 
