@@ -5,7 +5,7 @@ permalink: /about-us
 ---
 ## Who we are
 
-We are a pre-seed non-profit organization working on building the internet's native identity layer. We are incorporated in the United States and are pending 501(c)3 status. As such, all of our activities ultimately benefit the public, as can be observed from our causes and activities below.
+We are a pre-seed non-profit organization working on building the internet's native identity layer. We are incorporated in the United States with 501(c)3 status. As such, all of our activities ultimately benefit the public, as can be observed from our causes and activities below.
 
 ## Our vision
 
