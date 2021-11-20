@@ -1,4 +1,4 @@
-# How to contribute to Universal Identity industry map
+# How to contribute to Universal Identity site
 
 ## Code of Conduct
 
